@@ -1,1 +1,15 @@
 hellow world!!
+
+git add *
+git commit -m "message"
+[git branch -M main]
+git push -u orgin master
+
+
+push
+
+git remote add orgin https://github.com/alsshsskssl/hack_code.git
+git branch -M main
+git add *
+git commit -m "message"
+git push -u orgin main
