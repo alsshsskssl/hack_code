@@ -1,0 +1,2 @@
+pop rdi;ret 가젯 찾기
+ROPgadget --binary ./rtl --re "pop rdi"
